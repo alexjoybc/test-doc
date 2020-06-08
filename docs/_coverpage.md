@@ -1,4 +1,4 @@
-![logo](_media/BCID_H_cmyk_pos.eps)
+![logo](_media/BCID_H_cmyk_pos.svg)
 
 # docsify <small>3.5</small>
 
