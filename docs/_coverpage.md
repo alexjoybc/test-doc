@@ -8,3 +8,7 @@
 
 [GitHub](https://github.com/alexjoybc/test-doc/)
 [Get Started](#getStarted.md)
+
+<!-- background color -->
+
+![color](#f0f0f0)
