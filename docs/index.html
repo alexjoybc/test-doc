@@ -29,7 +29,13 @@
       logo: '/_media/icon.svg',
       themeColor: '#1d1d74',
       plugins: [
-        EditOnGithubPlugin.create(docBase, docEditBase, title)
+        EditOnGithubPlugin.create(
+          'https://github.com/alexjoybc/test-doc/blob/master/docs/',
+          null,
+          function (file) {
+              return 'edit on git'
+          }
+        )
       ]
     }
   </script>
