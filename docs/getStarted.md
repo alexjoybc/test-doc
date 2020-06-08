@@ -10,3 +10,11 @@ a command
 | --- | --- | 
 | 1 | 2 |
 | yeah | yo |
+
+```java
+
+public String test() {
+    return "test";
+}
+
+```
